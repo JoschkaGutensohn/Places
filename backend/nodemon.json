@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Joschka",
+    "DB_PASSWORD": "EAeNcwrPhICCtyMy",
+    "DB_NAME": "mern",
+    "MAP_API_KEY": "pk.d29c60e6f6493f827c38b4a75ddd683f",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
